@@ -1,18 +1,12 @@
-# Resume
+# Fahd Khan's Resume
 
-This repo contains my master resume file in reStructuredText format, 
-along with scripts to convert into various formats for publication.
+Fahd Khan's software development resume, including scripts to convert it into various formats.
 
-Home Page:
+## Change Log
 
-<http://khanfx.com/resume/>
+ - 2021: switch from reStructuredText/python world to modern Markdown world
 
-Dependencies:
+## Dependencies
 
-* [Python 2.7] [py]
-* [Docutils] [du]
-* [Pandoc] [pd]
+ - Pandoc
 
-[py]: http://www.python.org/
-[du]: http://docutils.sourceforge.net/
-[pd]: http://johnmacfarlane.net/pandoc/
